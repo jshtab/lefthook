@@ -1,4 +1,5 @@
 # Lefthook
+![LuaRocks](https://img.shields.io/luarocks/v/jshtab/lefthook) ![GitHub](https://img.shields.io/github/license/jshtab/lefthook) 
 
 Lefthook is a library for quickly running Discord Webhooks.
 
